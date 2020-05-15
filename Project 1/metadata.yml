@@ -1,0 +1,12 @@
+---
+:id: 29790340
+:submitters:
+- :name: Richard Y Aguilar
+  :email: richard.aguilar79@myhunter.cuny.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-02-18 12:50:18.303595000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-02-18 04:50:18.303595000 Z
+:status: processed
+:score: 71.0
